@@ -1,0 +1,9 @@
+- hi, my name is **varun choraria** - i go by **'vc'** for day-to-day
+- i am 25 years old; interested in all things go-to-market, sales and marketing for b2b enterprise SaaS
+- my website is: www.varunchoraria.com
+- i prefer working async; so i've voluntarily chosen to remian unreachable.
+- if you like my work then you can do a few things:
+  -   star the repo
+  -   fork it, and improve upon it. 
+  -   share it with relevant people
+  -   leave your thoughts so i can improve furture versions. be constructive.
